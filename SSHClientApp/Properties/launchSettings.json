@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SSHClientApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
